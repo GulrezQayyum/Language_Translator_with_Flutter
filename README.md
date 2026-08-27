@@ -1,8 +1,8 @@
-**Language Translator with Flutter**
+# Language Translator with Flutter
 
 A cross-platform language translation application built with Flutter. This project demonstrates the implementation of a translation service across multiple platforms including Android, iOS, Web, Windows, macOS, and Linux.
 
-Features
+**Features**
 
 - Multi-language translation support
 - Cross-platform compatibility (Android, iOS, Web, Windows, macOS, Linux)
@@ -10,7 +10,7 @@ Features
 - Real-time translation capabilities
 - Lightweight and efficient translation engine
 
-Requirements
+**Requirements**
 
 - Flutter SDK (latest stable version)
 - Dart SDK (included with Flutter)
@@ -22,7 +22,7 @@ Requirements
   - macOS: macOS 10.14 or higher
   - Linux: GTK 3.0 or higher
 
-Installation
+**Installation**
 
 1. Clone the repository:
    git clone https://github.com/GulrezQayyum/Language_Translator_with_Flutter.git
@@ -57,7 +57,7 @@ For macOS:
 For Linux:
    flutter run -d linux
 
-Project Structure
+**Project Structure**
 
 lib/               - Main Dart code for the application
 android/           - Android platform-specific code
@@ -68,7 +68,7 @@ macos/             - macOS platform-specific code
 linux/             - Linux platform-specific code
 test/              - Unit and widget tests
 
-Usage
+**Usage**
 
 1. Launch the application on your desired platform
 2. Select source and target languages from the dropdown menus
@@ -76,7 +76,7 @@ Usage
 4. View the translated output in real-time
 5. Use the copy or share buttons to export translations
 
-Development
+**Development**
 
 To run tests:
    flutter test
@@ -100,14 +100,14 @@ To build a release version:
    For Linux:
       flutter build linux
 
-Contributing
+**Contributing**
 
 Contributions are welcome. Please feel free to submit a pull request or open an issue for bugs and feature requests.
 
-License
+**License**
 
 This project is open source and available under the MIT License.
 
-Author
+**Author**
 
 Gulrez Qayyum - https://github.com/GulrezQayyum
