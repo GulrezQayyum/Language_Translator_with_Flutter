@@ -1,4 +1,4 @@
-Language Translator with Flutter
+**Language Translator with Flutter**
 
 A cross-platform language translation application built with Flutter. This project demonstrates the implementation of a translation service across multiple platforms including Android, iOS, Web, Windows, macOS, and Linux.
 
